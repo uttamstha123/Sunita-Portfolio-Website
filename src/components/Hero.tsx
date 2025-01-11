@@ -11,7 +11,7 @@ export default function Hero() {
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 mb-6">
               Hi, I'm Sunita Shrestha
               <span className="block mt-2 text-2xl md:text-3xl text-blue-600">
-                Assistant Manager | International Client Handling | HR Specialist
+                 | International Client Handling | HR Specialist
               </span>
             </h1>
             <p className="text-lg text-gray-600 mb-8 max-w-2xl">

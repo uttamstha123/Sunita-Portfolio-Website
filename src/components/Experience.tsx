@@ -3,7 +3,7 @@ import { Building2 } from 'lucide-react';
 
 const experiences = [
   {
-    title: "Assistant Manager - International Client Handling",
+    title: " - International Client Handling",
     company: "Outpace Consulting",
     period: "August 2022 – Present",
     location: "Lucknow, India",

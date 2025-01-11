@@ -11,7 +11,7 @@ export default function About() {
         </div>
         <div className="max-w-3xl mx-auto">
           <p className="text-lg text-gray-600 leading-relaxed mb-6">
-            As an experienced Assistant Manager at Outpace Consulting, I specialize in handling 
+            As an experienced  at Outpace Consulting, I specialize in handling 
             international ITES and US-based healthcare clients. My expertise lies in understanding 
             diverse client needs, streamlining processes, and ensuring seamless service delivery.
           </p>
